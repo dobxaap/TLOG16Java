@@ -1,0 +1,11 @@
+0. Exit
+1. List months
+2. List days
+3. List tasks for a specific day
+4. Add new month: specify year & month
+5. Add day to a specific month
+6. Start a task for a day
+7. Finish a specific task
+8. Delete a task
+9. Modify task
+10. Statistics
