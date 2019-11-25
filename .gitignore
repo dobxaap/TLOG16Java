@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/gradle,netbeans,java
-# Edit at https://www.gitignore.io/?templates=gradle,netbeans,java
+# Created by https://www.gitignore.io/api/java,gradle,windows,netbeans
+# Edit at https://www.gitignore.io/?templates=java,gradle,windows,netbeans
 
 ### Java ###
 # Compiled class file
@@ -55,4 +55,4 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
-# End of https://www.gitignore.io/api/gradle,netbeans,java
+# End of https://www.gitignore.io/api/java,gradle,windows,netbeans
